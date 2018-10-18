@@ -4,8 +4,8 @@
 Please note that the project still being developed!
 
 INSTALLATION:
+
     1. Appium Desktop - http://appium.io/
-    
     2. Install BlueStacks - https://www.bluestacks.com/ru/index.html#gref
     3. Install Android Studio - https://developer.android.com/studio/index.html
     4. Install Android SDK - inside Android studio or separately
