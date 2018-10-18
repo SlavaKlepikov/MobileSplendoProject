@@ -16,6 +16,8 @@ jobs:
       - run: sudo npm install -g appium
       - run: sudo apt install -y maven
       - run: sdkmanager --update
+      - run: sudo apt-get install libpulse0:i386
+      - run: sudo apt-get install pulseaudio
       - run: emulator -avd testAVD -no-audio -no-window
       - run: sudo appium -a 127.0.0.1 -p 4723
       - run: mvn clean install
