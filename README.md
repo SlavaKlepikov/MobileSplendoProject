@@ -23,14 +23,11 @@ CONFIGURATION:
     - Start
 
 TROUBLSHOOTING & FAQ:
-
-Problem 1: InvalidSelectorException: Message: Locator Strategy 'css selector' is not supported for this session.
-
-Problem 2: NoClassDefFoundError:OkHttpClient$Factory
-
-Solution 1: install release Appium 1.7.0 or lower.
-
-Solution 2: Set dependencies to pom.xml:
+    Problem 1: InvalidSelectorException: Message: Locator Strategy 'css selector' is not supported for this session.
+    Problem 2: NoClassDefFoundError:OkHttpClient$Factory
+    
+    Solution 1: install release Appium 1.7.0 or lower.
+    Solution 2: Set dependencies to pom.xml:
 
     org.seleniumhq.selenium up to 3.14.0
     io.appium up to 6.1.0
