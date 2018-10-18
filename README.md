@@ -11,7 +11,7 @@ INSTALLATION:
     4. Install Android SDK - inside Android studio or separately
     5. Add environment variables
 
-Configuration:
+CONFIGURATION:
 
     1. Appium for inspection.
     - run Appium
@@ -22,7 +22,7 @@ Configuration:
     - Save
     - Start
 
-Troubleshooting & FAQ:
+TROUBLSHOOTING & FAQ:
 
 Problem 1: InvalidSelectorException: Message: Locator Strategy 'css selector' is not supported for this session.
 
@@ -35,7 +35,7 @@ Solution 2: Set dependencies to pom.xml:
     org.seleniumhq.selenium up to 3.14.0
     io.appium up to 6.1.0
 
-Run:
+RUN:
 
     1. Run emulator BlueStack.
     2. Run Appium.
