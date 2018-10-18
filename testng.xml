@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="UI">
+
+    <test name="Jira tests">
+
+        <classes>
+            <class name="splendo.SplendoTest"/>
+        </classes>
+    </test>
+
+</suite>
