@@ -1,5 +1,6 @@
 
 # MobileSplendoProject
+
 Please note that the project still being developed!
 
 INSTALLATION:
@@ -19,7 +20,7 @@ Configuration:
     - Save
     - Start
 
-Troubleshooting & FAQ
+Troubleshooting & FAQ:
 
 Problem 1: InvalidSelectorException: Message: Locator Strategy 'css selector' is not supported for this session.
 Problem 2: NoClassDefFoundError:OkHttpClient$Factory
