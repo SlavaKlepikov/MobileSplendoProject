@@ -23,6 +23,7 @@ CONFIGURATION:
     - Start
 
 TROUBLSHOOTING & FAQ:
+
     Problem 1: InvalidSelectorException: Message: Locator Strategy 'css selector' is not supported for this session.
     Problem 2: NoClassDefFoundError:OkHttpClient$Factory
     
